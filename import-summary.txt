@@ -1,0 +1,129 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .amateras
+* cfss_app\
+* cfss_app\.git\
+* cfss_app\.git\COMMIT_EDITMSG
+* cfss_app\.git\FETCH_HEAD
+* cfss_app\.git\HEAD
+* cfss_app\.git\config
+* cfss_app\.git\description
+* cfss_app\.git\hooks\
+* cfss_app\.git\hooks\README.sample
+* cfss_app\.git\index
+* cfss_app\.git\info\
+* cfss_app\.git\info\exclude
+* cfss_app\.git\logs\
+* cfss_app\.git\logs\HEAD
+* cfss_app\.git\logs\refs\
+* cfss_app\.git\logs\refs\heads\
+* cfss_app\.git\logs\refs\heads\master
+* cfss_app\.git\logs\refs\remotes\
+* cfss_app\.git\logs\refs\remotes\origin\
+* cfss_app\.git\logs\refs\remotes\origin\master
+* cfss_app\.git\objects\
+* cfss_app\.git\objects\19\
+* cfss_app\.git\objects\19\ce9d8ff1fccf510df82d99a65f48c649b7becd
+* cfss_app\.git\objects\1a\
+* cfss_app\.git\objects\1a\8f553ae460b31166d01e9389456b69d0fefcdf
+* cfss_app\.git\objects\4b\
+* cfss_app\.git\objects\4b\825dc642cb6eb9a060e54bf8d69288fbee4904
+* cfss_app\.git\objects\96\
+* cfss_app\.git\objects\96\374c4e7f13264096db3a2c31c27963ee5a6f2d
+* cfss_app\.git\objects\bd\
+* cfss_app\.git\objects\bd\b0cabc87cf50106df6e15097dff816c8c3eb34
+* cfss_app\.git\objects\db\
+* cfss_app\.git\objects\db\34dae98318d234bca9612807bda9ab3a570b61
+* cfss_app\.git\objects\fe\
+* cfss_app\.git\objects\fe\007742007be4f66cc434482bc653aed21209ca
+* cfss_app\.git\refs\
+* cfss_app\.git\refs\heads\
+* cfss_app\.git\refs\heads\master
+* cfss_app\.git\refs\remotes\
+* cfss_app\.git\refs\remotes\origin\
+* cfss_app\.git\refs\remotes\origin\master
+* cfss_app\.gitattributes
+* cfss_app\.gitignore
+* ic_launcher-web.png
+* proguard-android.txt
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+gson-2.1.jar => com.google.code.gson:gson:2.1
+guava-r09.jar => com.google.guava:guava:18.0
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.1.jar => version 2.1 in com.google.code.gson:gson:2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\AMap_3DMap_V3.3.1_20160419.jar => app\libs\AMap_3DMap_V3.3.1_20160419.jar
+* libs\AMap_Location_V3.00_20160922.jar => app\libs\AMap_Location_V3.00_20160922.jar
+* libs\AMap_Search_V3.2.1_20160308.jar.jar => app\libs\AMap_Search_V3.2.1_20160308.jar.jar
+* libs\arm64-v8a\libgdinamapv4sdk752.so => app\src\main\jniLibs\arm64-v8a\libgdinamapv4sdk752.so
+* libs\arm64-v8a\libgdinamapv4sdk752ex.so => app\src\main\jniLibs\arm64-v8a\libgdinamapv4sdk752ex.so
+* libs\armeabi\libdatabase_sqlcipher.so => app\src\main\jniLibs\armeabi\libdatabase_sqlcipher.so
+* libs\armeabi\libsqlcipher_android.so => app\src\main\jniLibs\armeabi\libsqlcipher_android.so
+* libs\armeabi\libstlport_shared.so => app\src\main\jniLibs\armeabi\libstlport_shared.so
+* libs\commons-codec.jar => app\libs\commons-codec.jar
+* libs\glide-3.7.0.jar => app\libs\glide-3.7.0.jar
+* libs\javabase64-1.3.1.jar => app\libs\javabase64-1.3.1.jar
+* libs\okhttp-3.2.0.jar => app\libs\okhttp-3.2.0.jar
+* libs\okhttpserver-0.1.7.jar => app\libs\okhttpserver-0.1.7.jar
+* libs\okhttputils-1.5.2.jar => app\libs\okhttputils-1.5.2.jar
+* libs\okio-1.6.0.jar => app\libs\okio-1.6.0.jar
+* libs\sqlcipher.jar => app\libs\sqlcipher.jar
+* libs\sun.misc.BASE64Decoder.jar => app\libs\sun.misc.BASE64Decoder.jar
+* libs\universal-image-loader-1.9.4.jar => app\libs\universal-image-loader-1.9.4.jar
+* libs\x86\libdatabase_sqlcipher.so => app\src\main\jniLibs\x86\libdatabase_sqlcipher.so
+* libs\x86\libsqlcipher_android.so => app\src\main\jniLibs\x86\libsqlcipher_android.so
+* libs\x86\libstlport_shared.so => app\src\main\jniLibs\x86\libstlport_shared.so
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

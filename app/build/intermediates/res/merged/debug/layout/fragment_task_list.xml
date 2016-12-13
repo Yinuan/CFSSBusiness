@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="13dp"
+        android:orientation="horizontal" >
+        <!-- 所有订单 -->
+        <Button
+            android:id="@+id/btn_search_all"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/bg_button_search"
+            android:text="所有订单"
+            android:textColor="#ffffff"
+            android:textSize="14dp" />
+        <EditText
+            android:id="@+id/editText_search"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:background="@drawable/bg_edit_text"
+            android:drawableLeft="@drawable/search"
+            android:drawablePadding="5dp"
+            android:hint="@string/text_search_hint"
+            android:paddingLeft="13dp"
+            android:layout_marginLeft="13dp"
+            android:singleLine="true" >
+        </EditText>
+        
+        <!-- 日期搜索 -->
+        <Button
+            android:id="@+id/btn_search_date"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="13dp"
+            android:layout_weight="2"
+            android:background="@drawable/bg_button_search"
+            android:text="@string/search_date_button"
+            android:textColor="#ffffff"
+            android:textSize="14dp" />
+
+        <!-- 当天订单按钮 -->
+        <Button
+            android:id="@+id/button_search_today"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="13dp"
+            android:layout_weight="2"
+            android:background="@drawable/bg_button_search"
+            android:text="@string/search_button"
+            android:textColor="#ffffff"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/layout_loading_good"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <com.yd.cfssbusinessdemo.util.PullToRefreshLayout
+                android:id="@+id/refresh_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <include layout="@layout/refresh_head" />
+
+                <com.yd.cfssbusinessdemo.util.PullableListView
+                    android:id="@+id/listView_task_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="13dp"
+                    android:dividerHeight="13dp" />
+
+                <include layout="@layout/load_more" />
+            </com.yd.cfssbusinessdemo.util.PullToRefreshLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_loading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center" >
+
+            <ProgressBar
+                android:id="@+id/progressBar1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:indeterminate="false"
+                android:indeterminateDrawable="@anim/loading_anim" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_loading_null"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_shuju" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="33dp"
+                android:text="@string/load_null"
+                android:textColor="#787878"
+                android:textSize="24sp" />
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

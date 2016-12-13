@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\menu\\image.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\menu\\image.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mine_mark.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\menu\\mine_mark.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\menu\\index.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\menu\\index.xml"
+    }
+]

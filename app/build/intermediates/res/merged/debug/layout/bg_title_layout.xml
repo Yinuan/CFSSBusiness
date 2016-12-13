@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/title_layout_task"
+    android:layout_width="match_parent"
+    android:layout_height="59dp"
+    android:background="#f5821e" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/logo_denglu" />
+
+    <TextView
+        android:id="@+id/textView_fra_task"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/title"
+        android:textColor="#ffffff"
+        android:textSize="24sp" />
+
+    <com.yd.cfssbusinessdemo.weight.CircleImageView
+        android:id="@+id/iv_touxiang"
+        android:layout_width="41dp"
+        android:layout_height="41dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        app:civ_border_color="#FFFFFF"
+        android:src="@drawable/touxiang_little"
+        app:civ_border_width="1dp" />
+
+</RelativeLayout>

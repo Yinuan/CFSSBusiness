@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="true"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <include layout="@layout/bg_mine_alter_pass"/>
+
+    <EditText
+        android:id="@+id/editView_old_pass"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:paddingLeft="20dp"
+        android:textSize="16sp"
+        android:inputType="textPassword"
+       	android:digits="@string/number"
+       	android:maxLength="@string/length"
+        android:gravity="center_vertical"
+       android:background="@null" 
+        android:focusable="true"      
+        android:hint="@string/old_pass" />
+    <View  android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#b2b2b2"/>
+     <EditText
+        android:id="@+id/editView_new_pass"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:paddingLeft="20dp"
+        android:textSize="16sp"
+        android:maxLength="@string/length"
+        android:inputType="textPassword"
+       android:digits="@string/number"
+        android:gravity="center_vertical"
+        android:background="@null" 
+        android:hint="@string/new_pass"/>
+    <View  android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#b2b2b2"/>
+     <EditText
+        android:id="@+id/editView_confrim_pass"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:paddingLeft="20dp"
+        android:textSize="16sp"
+        android:maxLength="@string/length"
+        android:background="@null" 
+        android:gravity="center_vertical"
+        android:inputType="textPassword"
+       android:digits="@string/number"
+        android:hint="@string/pass_again"/>
+    <View  android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#b2b2b2"/>
+     <Button
+        android:id="@+id/button_exit"
+        android:layout_width="400dp"
+        android:layout_height="47dp"
+        android:textSize="17sp"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:background="@drawable/bg_button_search"
+        android:layout_marginTop="20dp"
+        android:text="@string/save" />
+    
+
+</LinearLayout>

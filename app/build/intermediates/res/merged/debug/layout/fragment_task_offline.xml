@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/linear_offline"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/layout_commit"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:background="#dbdbdb"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ProgressBar
+                android:id="@+id/progressBar2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:indeterminate="false"
+                android:indeterminateDrawable="@anim/loading_anim"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btn_anim"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/ic_shuaxin_offline" />
+
+            <TextView
+                android:id="@+id/textView_num1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/commit_offline"
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/listView_task_offline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:dividerHeight="13dp" >
+        </ListView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_offline_null"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView_offline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_shuju" />
+
+        <TextView
+            android:id="@+id/textView_offline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="33dp"
+            android:text="@string/text_offline"
+            android:textColor="#787878"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</FrameLayout>

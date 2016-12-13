@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>客户另约时间</item>
+        <item>客户不需要此业务办理</item>
+        <item>客户出门，暂时不办理</item>
+        <item>客户威胁，态度恶劣</item>
+    </string-array>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="bgColor_actionsheet_cancel_nor">#ffffff</color>
+    <color name="bgColor_alert_button_press">#EAEAEA</color>
+    <color name="bgColor_alertview_alert">#f8f8f8</color>
+    <color name="bgColor_divier">#d7d7db</color>
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#66000000</color>
+    <color name="blackaph">#1f000000</color>
+    <color name="blackaph2">#3f000000</color>
+    <color name="blacktext">#2e2e2e</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="blue">#0000FF</color>
+    <color name="blue_tabPress">#37b0e9</color>
+    <color name="blue_tabPress2">#73c8f0</color>
+    <color name="blueviolet">#8A2BE2</color>
+    <color name="brown">#A52A2A</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="cadetblue">#5F9EA0</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="cl_snappingstepper_button_normal">#237bb6</color>
+    <color name="cl_snappingstepper_button_press">#1f567b</color>
+    <color name="cl_snappingstepper_text">#000000</color>
+    <color name="cl_snappingstepper_text_bg">#2b8ccd</color>
+    <color name="class_item_bg_sel_color">#ffFFFFFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorStepperButtonNormal">#cc482c</color>
+    <color name="colorStepperButtonPress">#92011d</color>
+    <color name="colorStepperContentBg">#f95b3a</color>
+    <color name="colorStepperText">#ffffff</color>
+    <color name="coral">#FF7F50</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="darkblue">#00008B</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkgrey">#A9A9A9</color>
+    <color name="darkkhaki">#BDB76B</color>
+    <color name="darkmagenta">#8B008B</color>
+    <color name="darkolivegreen">#556B2F</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkred">#8B0000</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="darkslateblue">#483D8B</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="darkslategrey">#2F4F4F</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="darkview">#e2AA66CC</color>
+    <color name="darkviolet">#9400D3</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="firebrick">#B22222</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="gray">#808080</color>
+    <color name="gray_search_cleanbtn">#b2b2b2</color>
+    <color name="graybg">#f1f1f1</color>
+    <color name="graybgaph">#4ff1f1f1</color>
+    <color name="graytext1">#787878</color>
+    <color name="graytext2">#b8b8b8</color>
+    <color name="green">#00B75B</color>
+    <color name="greenyellow">#ADFF2F</color>
+    <color name="grey">#25808080</color>
+    <color name="grid_bg_color">#666666</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="indigo">#4B0082</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="light_blue">#6593cb</color>
+    <color name="lightblack">#323232</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="lightsalmon">#FFA07A</color>
+    <color name="lightseagreen">#20B2AA</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightslategray">#25778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="lightview">#25FFDAB9</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="limegreen">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="maroon">#800000</color>
+    <color name="mediumaquamarine">#66CDAA</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="mediumorchid">#BA55D3</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="mediumslateblue">#7B68EE</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="mediumturquoise">#48D1CC</color>
+    <color name="mediumvioletred">#C71585</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="myblack">#65181616</color>
+    <color name="myblue">#00A0E9</color>
+    <color name="mybluedd">#67747474</color>
+    <color name="mybuttonbg1"> #f4f4f4</color>
+    <color name="mybuttonbg2"> #6e6e6e</color>
+    <color name="mycfss">#f5821e</color>
+    <color name="myspeedbg"> #F7F5F5</color>
+    <color name="mytextview_blue">#1abc9c</color>
+    <color name="mytextview_gray">#e1e1e1</color>
+    <color name="mytitlebg">#1abc9c</color>
+    <color name="mytitlebg2">#1AB293</color>
+    <color name="mytitlebg_bottom">#196754</color>
+    <color name="mywhite">#FFFBFB</color>
+    <color name="mywhite2">#CBCBCB</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="navy">#000080</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="olive">#808000</color>
+    <color name="olivedrab">#6B8E23</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palevioletred">#DB7093</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="peru">#CD853F</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF6633</color>
+    <color name="red_text">#d22147</color>
+    <color name="release_transparent">#00000000</color>
+    <color name="rosybrown">#BC8F8F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="saddlebrown">#8B4513</color>
+    <color name="salmon">#FA8072</color>
+    <color name="sandybrown">#F4A460</color>
+    <color name="sc_transparent_background">#00111111</color>
+    <color name="seablue">#00A0E9</color>
+    <color name="seagreen">#2E8B57</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="sienna">#A0522D</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="slateblue">#6A5ACD</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="status_bar">#303135</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="tan">#D2B48C</color>
+    <color name="teal">#008080</color>
+    <color name="test">#22CCCCCC</color>
+    <color name="textColor_actionsheet_msg">#8f8f8f</color>
+    <color name="textColor_actionsheet_title">#8f8f8f</color>
+    <color name="textColor_alert_button_cancel">#007aff</color>
+    <color name="textColor_alert_button_destructive">#ff3b30</color>
+    <color name="textColor_alert_button_others">#007aff</color>
+    <color name="textColor_alert_msg">#000000</color>
+    <color name="textColor_alert_title">#000000</color>
+    <color name="theme_body">#cc22292c</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="tomato">#FF6347</color>
+    <color name="top_bar">#9f556061</color>
+    <color name="transparent">#00000000</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="violet">#EE82EE</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteaph">#2fffffff</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="yellow">#FFFF00</color>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="civ_border_width"/><attr format="color" name="civ_border_color"/><attr format="boolean" name="civ_border_overlay"/><attr format="color" name="civ_fill_color"/></declare-styleable>
+    <declare-styleable name="ConvenientBanner"><attr format="boolean" name="canLoop"/></declare-styleable>
+    <declare-styleable name="CropImageView"><attr format="color" name="cropMaskColor"/><attr format="color" name="cropBorderColor"/><attr format="dimension" name="cropBorderWidth"/><attr format="dimension" name="cropFocusWidth"/><attr format="dimension" name="cropFocusHeight"/><attr format="enum" name="cropStyle">
+            <enum name="rectangle" value="0"/>
+            <enum name="circle" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/><attr format="color" name="selectedTabTextColor"/></declare-styleable>
+    <declare-styleable name="SnappingStepper"><attr format="integer" name="min"/><attr format="integer" name="max"/><attr format="integer" name="value"/><attr format="integer" name="step"/><attr format="string" name="text"/><attr format="enum" name="mode">
+            <enum name="auto" value="0"/>
+            <enum name="custom" value="1"/>
+        </attr><attr format="color|reference" name="stepper_background"/><attr format="color|reference" name="stepper_buttonBackground"/><attr format="color|reference" name="stepper_contentBackground"/><attr format="color" name="stepper_contentTextColor"/><attr format="float" name="stepper_contentTextSize"/><attr format="color|reference" name="stepper_leftButtonBackground"/><attr format="color|reference" name="stepper_rightButtonBackground"/><attr format="color|reference" name="stepper_leftButtonResources"/><attr format="color|reference" name="stepper_rightButtonResources"/></declare-styleable>
+    <declare-styleable name="SwipeLayout"><attr format="enum" name="drag_edge">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr><attr format="enum" name="show_mode">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="address">客户地址:</string>
+    <string name="alter_pass">修改密码</string>
+    <string name="app_name">小雁核身</string>
+    <string name="arrive">到达</string>
+    <string name="arrtime">预计到达时间:</string>
+    <string name="b_tybe">业务类型:</string>
+    <string name="bank">银行名称:</string>
+    <string name="btn_text">登录</string>
+    <string name="cancle">返回</string>
+    <string name="cancle_ordercode">取消订单</string>
+    <string name="client_address">客户地址:</string>
+    <string name="client_idcard">客户ID:</string>
+    <string name="client_name">客户姓名:</string>
+    <string name="client_phone">客户电话:</string>
+    <string name="commit_offline">点击提交离线任务</string>
+    <string name="cour_phone">派单员联系方式:</string>
+    <string name="exit_login">退出登录</string>
+    <string name="explain">请补充说明..</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_mess">派单员提示信息:</string>
+    <string name="length">8</string>
+    <string name="load_fail">加载失败</string>
+    <string name="load_null">暂无数据，点击刷新</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="loading">正在加载...</string>
+    <string name="login_name">请输入账号</string>
+    <string name="login_pass">请输入密码</string>
+    <string name="menu_mine">我的</string>
+    <string name="menu_mine_beizhu">我的备注</string>
+    <string name="menu_mine_touxiang">个人头像</string>
+    <string name="menu_point">执行</string>
+    <string name="menu_task">任务</string>
+    <string name="menu_task_mess_manager">资料管理</string>
+    <string name="mine">我的信息</string>
+    <string name="more">更多</string>
+    <string name="new_pass">新密码</string>
+    <string name="not_updated_yet">暂未更新过</string>
+    <string name="num">订单号:</string>
+    <string name="number">0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ</string>
+    <string name="old_pass">旧密码</string>
+    <string name="open_navi">打开导航</string>
+    <string name="open_phone">拨打电话</string>
+    <string name="pass_again">再次输入新密码</string>
+    <string name="perform">完成</string>
+    <string name="perform_num">完成单数</string>
+    <string name="personal_card">身份证:</string>
+    <string name="personal_info">个人资料</string>
+    <string name="personal_name">姓名:</string>
+    <string name="personal_num">完成单数:</string>
+    <string name="personal_phone">电话:</string>
+    <string name="personal_sex">性别:</string>
+    <string name="pull_to_refresh">下拉可以刷新</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refreshing">正在刷新…</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="remark">备注:</string>
+    <string name="remember_state">记住账号</string>
+    <string name="save">保存</string>
+    <string name="search_button">当天订单</string>
+    <string name="search_date_button">日期搜索</string>
+    <string name="start">出发</string>
+    <string name="task_message">任务详情</string>
+    <string name="task_pro">任务进度</string>
+    <string name="text_offline">哇喔，暂无数据！</string>
+    <string name="text_search_hint">单号、姓名、地址</string>
+    <string name="text_volume_null">暂无可执行的任务!</string>
+    <string name="time">上门时间:</string>
+    <string name="time_error">时间有问题</string>
+    <string name="title">移动运营</string>
+    <string name="title_activity_alter_pass">AlterPassActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_index">IndexActivity</string>
+    <string name="title_activity_mine_mark">MineMarkActivity</string>
+    <string name="title_activity_perform">PerformActivity</string>
+    <string name="title_activity_task_list">TaskListActivity</string>
+    <string name="title_activity_task_message">TaskMessageActivity</string>
+    <string name="title_activity_volume_execute">VolumeExecuteActivity</string>
+    <string name="updated_at">上次更新于%1$s前</string>
+    <string name="updated_just_now">刚刚更新</string>
+    <string name="volume">批量执行</string>
+    <string name="volume_radio_btn">全选</string>
+    <string name="yuyue">预约</string>
+    <string name="yuyue_text">已分配至核身人员</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ColorTranslucentTheme" parent="AppTheme">
+    <!--在Android 4.4之前的版本上运行，直接跟随系统主题-->
+	</style>
+</resources>

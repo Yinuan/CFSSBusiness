@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_mine_alter_pass.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_mine_alter_pass.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_input_layout.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\popup_input_layout.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_task_list.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\fragment_task_list.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_title_layout.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_title_layout.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_task_offline.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\fragment_task_offline.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_mine_touxiang.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_mine_touxiang.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_message.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\activity_task_message.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_one.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_task_volume.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_task_volume.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_title_mine_layout.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_title_mine_layout.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alter_pass.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\activity_alter_pass.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_perform_task.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_perform_task.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_volume_start.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\fragment_volume_start.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_volume_execute.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\activity_volume_execute.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mine_mark.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\activity_mine_mark.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_task_perform.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\fragment_task_perform.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_task_message.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_task_message.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_mine_beizhu.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_mine_beizhu.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_volume_arrive.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\fragment_volume_arrive.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_task_bg.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\listview_task_bg.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_volume_bg.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\listview_volume_bg.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\pull_to_refresh.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_list.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\activity_task_list.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_base.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_volume_arrive.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\listview_volume_arrive.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_perform_bg.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\listview_perform_bg.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_viewpager_list.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_viewpager_list.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_two.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\fragment_two.xml"
+    },
+    {
+        "merged": "D:\\project_test\\CFSSBusiness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_cancle_layout.xml",
+        "source": "D:\\project_test\\CFSSBusiness\\app\\src\\main\\res\\layout\\bg_cancle_layout.xml"
+    }
+]
